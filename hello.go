@@ -62,7 +62,7 @@ func mapDeclaration() {
 	fmt.Println("------マップ------")
 
 	// マップ宣言
-	m := map[string]int{"apple": 100, "banana": 500}
+	m := map[string]int{"apple": 100, "banana": 500, "grape": 300}
 	fmt.Println(m)
 
 	// 中身変更
