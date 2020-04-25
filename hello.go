@@ -61,6 +61,18 @@ func mapDeclaration() {
 
 	fmt.Println("------マップ------fugafuga")
 	fmt.Println("------マップ------hoge")
+	fmt.Println("------マップ------fugafuga")
+	fmt.Println("------マップ------hoge")
+	fmt.Println("------マップ------fugafuga")
+	fmt.Println("------マップ------hoge")
+	fmt.Println("------マップ------fugafuga")
+	fmt.Println("------マップ------hoge")
+	fmt.Println("------マップ------fugafuga")
+	fmt.Println("------マップ------hoge")
+	fmt.Println("------マップ------fugafuga")
+	fmt.Println("------マップ------hoge")
+	fmt.Println("------マップ------fugafuga")
+	fmt.Println("------マップ------hoge")
 
 	// マップ宣言
 	m := map[string]int{"apple": 100, "banana": 500, "grape": 300}
