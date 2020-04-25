@@ -59,7 +59,7 @@ func arrayDeclaration() {
 
 func mapDeclaration() {
 
-	fmt.Println("------マップ------")
+	fmt.Println("------マップ------unko")
 
 	// マップ宣言
 	m := map[string]int{"apple": 100, "banana": 500, "grape": 300}
