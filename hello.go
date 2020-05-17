@@ -9,7 +9,7 @@ import (
 const Pi = 3.14
 
 // メイン関数の宣言
-func main() {
+func test() {
 	fmt.Println("------メイン------")
 	fmt.Println("hello world")
 	//関数呼び出し
